@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Ramsés Jesus
+I'm a 16 years old Brazilian, IT studant at IFRN, engineering and CS entusiast, searching for opportunities
+- 🔭 I'm currently working on **Solar**
 
-<!--
-**ramsesjda/ramsesjda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently learning **Lua, Numpy**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Tech Stack:</h3>
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+
+
+
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+
+
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"/>
+
+<img 
+style="height:40px; padding-right:10"
+align="left"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
+
